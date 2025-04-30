@@ -1,0 +1,10 @@
+<library path="my_rviz_plugin">
+  <class
+    name="my_rviz_plugin/MyPanel"
+    type="my_rviz_plugin::MyRvizPanel"
+    base_class_type="rviz_common::Panel">
+    <description>
+      An RViz2 panel providing custom controls for robot interaction.
+    </description>
+  </class>
+</library>
